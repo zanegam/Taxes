@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tax Calculator App</string>
+    <string name="txtTitle">Federal Tax Calculator</string>
+    <string name="txtSingleTitle">Single</string>
+    <string name="txtMarriedTitle">Married</string>
+    <string-array name="spnStatus">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+    <string name="btnStart">Start Calculating</string>
+    <string name="editTxtIncome">Enter Income</string>
+    <string name="radioUse">Standard Deduction</string>
+    <string name="radioNo">No Deduction</string>
+    <string name="btnShow">Show Me The Money</string>
+    <string name="txtDescription">Picture</string>
+</resources>
